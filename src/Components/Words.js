@@ -13,7 +13,9 @@ var programming_languages = [
 	"php",
 	"sql",
   "ruby",
-  "fortran"
+  "fortran",
+  "cpp",
+  "java"
 ]
 
 function randomWord() {
